@@ -1,0 +1,4 @@
+﻿Record_Type,Status,Message,Original_Rows,Cleaned_Rows,Duplicates_Removed,Export_Status
+SUMMARY,BLOCKED,The file contains blocking errors.,6,5,1,BLOCKED
+ERROR,BLOCKING,Row 4: Email is missing.,,,,BLOCKED
+WARNING,NOTICE,Row 5: City is missing.,,,,BLOCKED
